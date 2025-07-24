@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752959842 source:/home/danny/Escritorio/Ejercicio_70/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
