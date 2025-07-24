@@ -7,7 +7,7 @@ INGENIERO EN SISTEMAS
 
 *******************************************************
 CUA , ESTADO MIRANDA 2025
-CURSO DE ALGORITMO Y PSEUDOCODIGO 
+CURSO DEL LENGUAJE C  
 DEV DEVELOPMENT    
 ******************************************************
 
